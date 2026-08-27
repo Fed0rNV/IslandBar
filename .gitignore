@@ -1,0 +1,43 @@
+# macOS and editors
+.DS_Store
+.AppleDouble
+._*
+.idea/
+.vscode/
+*.swp
+*~
+*.log
+
+# SwiftPM and Xcode
+.build/
+.build-debug/
+.swiftpm/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.xcresult
+
+# Packaged outputs
+dist/
+*.app
+*.dSYM
+*.xcarchive
+*.zip
+
+# Local QA artifacts
+qa-*.png
+qa-*.jpg
+qa-*.mov
+qa-*.mp4
+docs-islandbar-demo*.png
+Tools/ListWindows.swift
+
+# Signing material and local configuration
+.env
+.env.*
+!.env.example
+*.p12
+*.cer
+*.key
+*.provisionprofile
+*.mobileprovision

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>ru</string>
+    <key>CFBundleExecutable</key>
+    <string>IslandBar</string>
+    <key>CFBundleIdentifier</key>
+    <string>local.islandbar.app</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>IslandBar</string>
+    <key>CFBundleDisplayName</key>
+    <string>IslandBar</string>
+    <key>CFBundleIconFile</key>
+    <string>IslandBar</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.3</string>
+	<key>CFBundleVersion</key>
+	<string>4</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSCameraUsageDescription</key>
+    <string>IslandBar использует камеру только для локального режима зеркала.</string>
+    <key>NSCalendarsFullAccessUsageDescription</key>
+    <string>IslandBar показывает ближайшие события прямо в островке.</string>
+    <key>NSRemindersFullAccessUsageDescription</key>
+    <string>IslandBar показывает и позволяет отмечать ваши напоминания.</string>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>IslandBar управляет Apple Music и Spotify по вашей команде.</string>
+    <key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2026 Fed0rNV</string>
+</dict>
+</plist>
