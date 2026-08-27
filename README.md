@@ -5,6 +5,11 @@
   <p><a href="README_RU.md">Русская версия</a></p>
 </div>
 
+<p align="center">
+  <a href="https://github.com/Fed0rNV/IslandBar/releases/latest/download/IslandBar-v1.3-macOS-arm64.zip"><strong>Download IslandBar v1.3</strong></a><br>
+  Apple Silicon · macOS 14+ · ad-hoc signed
+</p>
+
 ![IslandBar music Live Activity](docs/islandbar-music.png)
 
 IslandBar is an original, local-first macOS app. It stays invisible when idle, appears when you hover over the physical notch, and turns music, focus tools, files, clipboard history, and small utilities into one fluid top-of-screen interface.
