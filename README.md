@@ -36,7 +36,7 @@ The full Xcode application is not required. Command Line Tools with the macOS SD
 ```sh
 git clone https://github.com/Fed0rNV/IslandBar.git
 cd IslandBar
-./build.sh
+zsh build.sh
 ```
 
 The signed local build is written to `dist/IslandBar.app`. Move it to `/Applications` before enabling launch at login.
